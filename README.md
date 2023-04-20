@@ -8,7 +8,7 @@
 ## Table of Content
 
 
-**1. SQL: One To Many **
+**1. SQL: One To Many**
  - Joins.sql 
  - INNER_JOIN.sql
  - LEFT_JOIN.sql
